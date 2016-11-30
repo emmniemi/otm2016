@@ -10,3 +10,5 @@
 [linkki käyttöohjeeseen](https://github.com/emmniemi/otm2016/blob/master/dokumentointi/kaytto-ohje.md)
 
 tämä on uusi muutos
+
+[hieno kuva täällä](https://github.com/emmniemi/otm2016/blob/master/dokumentointi/maarittelydokumentti.md)
